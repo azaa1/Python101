@@ -9,7 +9,7 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 
 ## Project Purpose
-The purpose of this project is to give you some basic ideas on how use python. 
+The purpose of this project is to give you some basic ideas on how to use python. 
 
 ## Folder Structure 
 - [Session1](Session1) 
